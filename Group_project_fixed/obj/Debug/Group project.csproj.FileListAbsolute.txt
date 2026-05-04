@@ -1,0 +1,14 @@
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\bin\Debug\Group project.exe.config
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\bin\Debug\Group project.exe
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\bin\Debug\Group project.pdb
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\obj\Debug\Group project.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\obj\Debug\Group_project.Form1.resources
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\obj\Debug\Group_project.Form2.resources
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\obj\Debug\Group_project.Form3.resources
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\obj\Debug\Group_project.Form4.resources
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\obj\Debug\Group_project.Properties.Resources.resources
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\obj\Debug\Group project.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\obj\Debug\Group project.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\obj\Debug\Group project.exe
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\obj\Debug\Group project.pdb
+C:\Users\Student\Downloads\Group_project_fixed (1)\Group_project_fixed\obj\Debug\Group project.exe.config
